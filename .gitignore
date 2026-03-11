@@ -22,5 +22,7 @@ rad.json
 TestResults.xml
 node_modules/
 .env
+.env.development
+.env.local
 dist/
 .DS_Store
